@@ -1,0 +1,4 @@
+2	asdsf	qwerty	Male	12	Address123	P	P	P	P	P	P	Critical patient
+3	rggrrg	rgr	Male	31	Address234	P	N	N	N	N	P	Self Quarantine
+4	xcvb	nbv	Male	41	Address345	P	P	N	N	N	P	Under observation
+5	asdffg	treq	Male	32	Address123	P	N	P	N	P	P	Under observation
